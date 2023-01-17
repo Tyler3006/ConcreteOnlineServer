@@ -1,0 +1,13 @@
+32|
+Henry|
+89 Legit Street|
+54326|
+14|
+34|
+15:30|
+Another Test|
+Yes|
+2023-01-12|
+2023-01-12 12:19:48|
+processed|
+

@@ -1,0 +1,15 @@
+2|
+Tyler|
+123 Fake St|
+0212551312|
+10|
+10|
+13:30|
+[TEST]
+
+This is the first Concrete Online Order!|
+Yes|
+2022-12-12|
+2022-12-12 18:43:25|
+processed|
+

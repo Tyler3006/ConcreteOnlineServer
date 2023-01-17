@@ -1,0 +1,13 @@
+4|
+John|
+502 NotReal Street|
+5554441333|
+10mpa|
+5|
+12:30|
+This is another Test|
+Yes|
+2022-12-28|
+2022-12-28 11:08:07|
+processed|
+
