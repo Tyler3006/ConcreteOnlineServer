@@ -734,10 +734,10 @@ public class MainDisplay extends javax.swing.JFrame implements Runnable {
         numOfRowsDBLabel.setText("Number of rows in the MySQL Database: " + DB_rowCount);
     }
 
-    String fileName = "2-Tyler.txt";
+    //String fileName = "2-Tyler.txt";
 
     public void sendFile() throws IOException {
-        FileSender fs = new FileSender(fileName);
+        FileSender fs = new FileSender();
         //fs.newFileOut();
     }
 
